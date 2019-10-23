@@ -1,0 +1,2 @@
+multi_arr
+-DCATKIN_DEVEL_PREFIX=/home/soumya/multi_array/devel -DCMAKE_INSTALL_PREFIX=/home/soumya/multi_array/install -G Unix Makefiles

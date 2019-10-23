@@ -1,0 +1,8 @@
+prefix=/home/soumya/multi_array/install
+
+Name: multi_arr
+Description: Description of multi_arr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/soumya/multi_array/install/lib 
+Requires: 
